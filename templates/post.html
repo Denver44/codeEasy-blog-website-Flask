@@ -1,0 +1,36 @@
+{% extends "layout.html"  %}
+
+{% block body %}
+<!-- Page Header -->
+<header class="masthead" {% set fname = post.img_file %}
+  style="background-image: url(' {{ url_for('static',filename= fname)  }}')">
+
+  <div class="overlay"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+        <div class="post-heading">
+          <h1>{{post.title}}</h1>
+          <h2 class="subheading">{{post.tag_line}}</h2>
+          <span class="meta">Posted by
+            <a href="#">{{params["blog_name"]}}</a>
+            {{post.date}}</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+<!-- Post Content -->
+<article>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+
+        {{post.content}}
+
+      </div>
+    </div>
+  </div>
+</article>
+{% endblock %}
