@@ -3,10 +3,7 @@
 
 # This is a Flask based personal project.
 
-![ReactJs App](<https://raw.githubusercontent.com/Denver44/Smart-Trolley/main/screenshot/1.png>) 
-![ReactJs App](<https://raw.githubusercontent.com/Denver44/Smart-Trolley/main/screenshot/2.png>) 
-![ReactJs App](<https://raw.githubusercontent.com/Denver44/Smart-Trolley/main/screenshot/3.png>) 
-![ReactJs App](<https://raw.githubusercontent.com/Denver44/Smart-Trolley/main/screenshot/4.png>) 
-![ReactJs App](<https://raw.githubusercontent.com/Denver44/Smart-Trolley/main/screenshot/5.png>) 
+![ReactJs App](https://raw.githubusercontent.com/Denver44/CodeEasy-Flaskproject/main/screenshot/ss%20(1).png>) 
+
 
 
