@@ -1,7 +1,5 @@
 
-## FLASK Project CodeEasy - Personal Blog Website
-
-# This is a Flask based personal project.
+## CodeEasy - Personal Blog Website using Flask.
 
 ![ReactJs App](<https://raw.githubusercontent.com/Denver44/CodeEasy-Flaskproject/main/screenshot/ss%20(1).png>) 
 ![ReactJs App](<https://raw.githubusercontent.com/Denver44/CodeEasy-Flaskproject/main/screenshot/ss%20(4).png>) 
